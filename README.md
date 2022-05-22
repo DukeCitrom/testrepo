@@ -1,2 +1,2 @@
 # testrepo
-Repo for testing Gifthub
+Repo for testing Gifhub
